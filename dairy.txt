@@ -4,4 +4,3 @@ cookies
 yello
 cheese
 goat
-yogurt
