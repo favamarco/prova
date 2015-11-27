@@ -6,3 +6,5 @@ tomato
 potato
 squash
 peppers
+pepino
+pimiento
